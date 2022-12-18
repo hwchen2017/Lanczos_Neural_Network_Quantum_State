@@ -18,7 +18,10 @@ Relative error in the ground state energy of $J_1 − J_2$ model on a $6\times 6
 <!-- ![accuracy](./result/relative_error.png) -->
 
 
-Spin structure factor: $$ S(q) = \frac{1}{N^2} \sum_{i, j} \langle \sigma^z_i \sigma^z_j \rangle e^{iq \cdot ({r_i} - {r_j})} $$
+Spin structure factor:  
+<img src="result/ssf_eq.png" width="250">
+
+<!-- $$ S(q) = \frac{1}{N^2} \sum_{i, j} \langle \sigma^z_i \sigma^z_j \rangle e^{iq \cdot ({r_i} - {r_j})} $$ -->
 
 <img src="result/j1j2_ssf.png" width="650">
 <!-- ![ssf](./result/j1j2_ssf.png) -->
